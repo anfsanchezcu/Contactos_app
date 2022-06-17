@@ -1,0 +1,12 @@
+{
+    "name":"Agenda web",
+    "short_name":"Agenda_App",
+    "description": "Esta version de agenda aun cuenta con algunos fallos",
+    "background_color":"#198754",
+    "theme_color":"#198754",
+    "start_url":"./",
+    "scope":"./",
+    "lang":"es-CO",
+    "display":"fullscreen",
+    "orientation":"portrait"
+}
